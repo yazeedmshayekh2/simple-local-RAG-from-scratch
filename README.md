@@ -10,7 +10,7 @@ All the way from PDF ingestion to "chat with PDF" style features.
 
 All using open-source tools.
 
-In our specific example, we'll build NutriChat, a RAG workflow that allows a person to query a 1200 page PDF version of a Nutrition Textbook and have an LLM generate responses back to the query based on passages of text from the textbook.
+In our specific example, we'll build RAGChat, a RAG workflow that allows a person to query a 19 page PDF version of a RAG paper from Facebook and have an LLM generate responses back to the query based on passages of text from the textbook.
 
 PDF source: https://pressbooks.oer.hawaii.edu/humannutrition2/ 
 
