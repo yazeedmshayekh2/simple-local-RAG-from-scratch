@@ -33,7 +33,7 @@ Two main options:
 
 - Comfortable writing Python code. 
 - 1-2 beginner machine learning/deep learning courses.
-- Familiarity with PyTorch, see my [beginner PyTorch video](https://youtu.be/Z_ikDlimN6A?si=NIkrslkvHaNdlYgx) for more. 
+- Familiarity with PyTorch, see this course [beginner PyTorch video](https://youtu.be/Z_ikDlimN6A?si=NIkrslkvHaNdlYgx) for more. 
 
 ## Setup
 
