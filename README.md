@@ -1,4 +1,4 @@
-# Simple Local RAG Tutorial
+# ScratchyRAG
 
 Local RAG pipeline we're going to build:
 
